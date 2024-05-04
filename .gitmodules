@@ -1,0 +1,6 @@
+[submodule "qemu-spy"]
+	path = qemu-spy
+	url = https://github.com/czxvan/qemu-spy
+[submodule "aflnet"]
+	path = aflnet
+	url = https://github.com/czxvan/aflnet
